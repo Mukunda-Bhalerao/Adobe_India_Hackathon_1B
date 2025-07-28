@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T18:02:35.840084+00:00"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "a waterproof phone case will protect your device. consider bringing a waterproof phone case",
+            "importance_rank": 1,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "to avoid drinking and driving. consider hiring a driver or joining a guided tour to",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "bring a travel adapter if needed. bring a travel adapter if",
+            "importance_rank": 3,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "an is an annual photojournalism festival held in perpignan.",
+            "importance_rank": 4,
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "sites like Lascaux and Rouffignac. visit museums dedicated to prehistoric life",
+            "importance_rank": 5,
+            "page_number": 10
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "section_title": "producing some of the finest wines in the world. wine is an integral part of the local",
+            "importance_rank": 6,
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "with interactive exhibits. the planetarium is an aquarium and planetarium with",
+            "importance_rank": 7,
+            "page_number": 10
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "waterproof phone case will protect your device. consider bringing a waterproof phone case to protect your device. a waterproof phone case will protect your device if you have a waterproof phone case.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving. consider hiring a driver or joining a guided tour to avoid drinking and driving.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "electronics: Smartphone, charger, power bank, and other devices. bring a travel adapter if needed. if needed, bring a travel adapter if needed.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "festival de perpignan attracts photographers and journalists from around the world. visa pour l'image is an annual photojournalism festival held in perpignan.",
+            "page_number": 11
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "see ancient cave paintings at prehistoric sites like Lascaux and Rouffignac. visit museums dedicated to prehistoric life. visit museums dedicated to prehistoric life in the u.s.",
+            "page_number": 10
+        },
+        {
+            "document": "South of France - Traditions and Culture.pdf",
+            "refined_text": "the south of France is renowned for its wine production, with regions such as Provence, Languedoc, and the Rhône Valley producing some of the finest wines in the world. wine is an integral part of the local culture, and vineyards often host tours and tastings.",
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "discover the planet ocean world, an aquarium and planetarium with interactive exhibits. the planetarium is an aquarium and planetarium with a variety of aquariums and aquariums.",
+            "page_number": 10
+        }
+    ]
+}
